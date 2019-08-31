@@ -1,0 +1,19 @@
+body {
+	background: purple;
+	color:white;
+}
+
+h1 {
+	color: yellow;
+}
+
+p {
+	color: orange;
+}
+
+ol {
+	color: red;
+}
+.img1{
+	width:20%;
+}
