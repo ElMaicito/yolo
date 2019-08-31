@@ -1,5 +1,5 @@
 body {
-	background: purple;
+	background: green;
 	color:white;
 }
 
@@ -8,11 +8,11 @@ h1 {
 }
 
 p {
-	color: orange;
+	color: gold;
 }
 
 ol {
-	color: red;
+	color: darkred;
 }
 
 .img1{
